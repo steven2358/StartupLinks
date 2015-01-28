@@ -10,6 +10,7 @@ Ideas
 Business plan
 ---
 - [Web and Mobile Revenue Models.](https://hackpad.com/Web-And-Mobile-Revenue-Models-final-EgXuEtSibE7) Resulting  [gist with discussion](https://gist.github.com/ndarville/4295324).
+- [Lean Canvas Google Draw template](https://drive.google.com/previewtemplate?id=16uOd158UzJM9oqGWgJOtbppzGNPmZ4fWMSV6_xBz3Z8&mode=public&ddrp=1#)
 
 Courses
 ---
