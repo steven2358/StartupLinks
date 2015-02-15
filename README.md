@@ -15,3 +15,15 @@ Business plan
 Courses
 ---
 - ["How to Start a Startup" by Sam Altman / Y Combinator](http://startupclass.samaltman.com/) (CS183B at Stanford, Fall 2014)
+
+Communities
+---
+- [Lean Startup Circle](http://www.leanstartupcircle.com)
+- [Lean Startup Circle - Google Groups](https://groups.google.com/forum/#!forum/lean-startup-circle)
+- [The Lean Startup Circle Wiki](http://leanstartup.pbworks.com/)
+- [r/Entrepreneur subreddit](http://www.reddit.com/r/Entrepreneur/)
+- [r/startups subreddit](http://www.reddit.com/r/startups/)
+
+Books
+---
+- [Eric Ries - The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898)
